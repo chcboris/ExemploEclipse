@@ -5,6 +5,10 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("Teste");
 		System.out.println("Comitando alteração simples");
+		
+		NovaClasse nova = new NovaClasse();
+		
+		nova.msg();
 	}
 
 }
