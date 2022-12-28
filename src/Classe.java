@@ -1,6 +1,6 @@
 public class Classe {
 
 	public void msg() {
-		System.out.println("Nova classe ");
+		System.out.println("classe ");
 	}
 }
