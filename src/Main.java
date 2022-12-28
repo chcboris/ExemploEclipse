@@ -9,6 +9,10 @@ public class Main {
 		NovaClasse nova = new NovaClasse();
 		
 		nova.msg();
+
+		Classe nova2 = new Classe();
+		
+		nova2.msg();
 	}
 
 }
