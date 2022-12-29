@@ -1,10 +1,7 @@
 public class Novato {
 
 	public void msg() {
-		System.out.println("classe ");
+		System.out.println("novato ");
 	}
 	
-	public void testando() {
-		System.out.println("testando classe ");
-	}
 }
