@@ -1,4 +1,5 @@
 public class Veterano{
+	// exemplo de código
 
 	public void msg() {
 		System.out.println("Veterano ");
