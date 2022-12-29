@@ -12,5 +12,6 @@ public class Veterano{
 	public void depois() {
 		System.out.println("executo no fim ");
 		// teste merge, fonte eclipse
+		//teste merge fonte externa
 	}	
 }
