@@ -13,7 +13,10 @@ public class Veterano{
 		System.out.println("executo no fim ");
 		// teste merge, fonte eclipse
 		//novo teste
+<<<<<<< HEAD
 		//teste 4 eclipse
+=======
+>>>>>>> refs/remotes/origin/main
 //novo teste 3
 		// testando, fonte externa
 		//teste merge fonte externa
