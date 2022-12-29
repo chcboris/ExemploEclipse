@@ -13,7 +13,10 @@ public class Main {
 		Classe nova2 = new Classe();
 		
 		nova2.msg();
-		// testando merge
+		
+		Novato novato = new Novato();
+		
+		novato.msg();
 	}
 
 }
