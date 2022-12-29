@@ -11,10 +11,7 @@ public class Veterano{
 
 	public void depois() {
 		System.out.println("executo no fim ");
-<<<<<<< HEAD
 		// teste merge, fonte eclipse
-=======
->>>>>>> branch 'main' of https://github.com/chcboris/ExemploEclipse.git
 		//teste merge fonte externa
 	}	
 }
